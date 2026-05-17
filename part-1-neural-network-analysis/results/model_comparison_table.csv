@@ -1,0 +1,6 @@
+Configuration,Test Accuracy
+"Baseline (64-32, lr=0.001, batch=32)",0.9850000143051147
+Fewer neurons (32),0.987500011920929
+High LR (0.01),0.9700000286102295
+Large batch (128),0.9850000143051147
+3 hidden layers (64-32-16),0.9825000166893005
